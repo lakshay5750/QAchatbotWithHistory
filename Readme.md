@@ -84,19 +84,19 @@ streamlit run app.py
 
 ## 📌 Requirements
 
-streamlit
-langchain
-langchain-core
-langchain-community
-langchain-classic
-langchain-groq
-langchain-huggingface
-langchain-text-splitters
-chromadb
-python-dotenv
-sentence-transformers
-pypdf
-ipykernel
+- streamlit
+- langchain
+- langchain-core
+- langchain-community
+- langchain-classic
+- langchain-groq
+- langchain-huggingface
+- langchain-text-splitters
+- chromadb
+- python-dotenv
+- sentence-transformers
+- pypdf
+- ipykernel
 
 ---
 
