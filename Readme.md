@@ -110,10 +110,11 @@ streamlit run app.py
 ---
 
 ## 🔒 Security
-
+```
 Files ignored in Git:
 .env
 .lakshay
+```
 
 ---
 
