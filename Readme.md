@@ -39,8 +39,8 @@ User Query → Context Retrieval → LLM (Groq) → Final Answer + Chat History
 ## 📦 Installation
 
 ### 1. Clone Repository
-git clone https://github.com/your-username/pdf-rag-chatbot.git
-cd pdf-rag-chatbot
+git clone https://github.com/lakshay5750/QAchatbotWithHistory.git
+cd QAchatbotWithHistory
 
 ---
 
