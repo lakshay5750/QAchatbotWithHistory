@@ -18,7 +18,7 @@ A Streamlit-based Conversational AI app and store the history that allows users 
 
 ## 🏗️ Architecture
 
-PDF Upload → Text Extraction → Chunking → Embeddings → Vector DB (Chroma)
+ PDF Upload → Text Extraction → Chunking → Embeddings → Vector DB (Chroma)
                                               ↓
 User Query → Context Retrieval → LLM (Groq) → Final Answer + Chat History
 
