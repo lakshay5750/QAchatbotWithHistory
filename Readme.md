@@ -39,16 +39,15 @@ User Query → Context Retrieval → LLM (Groq) → Final Answer + Chat History
 ## 📦 Installation
 
 ### 1. Clone Repository
-git clone https://github.com/lakshay5750/QAchatbotWithHistory.git
-cd QAchatbotWithHistory
+- git clone https://github.com/lakshay5750/QAchatbotWithHistory.git
+- cd QAchatbotWithHistory
 
 ---
 
 ### 2. Create Virtual Environment
--python -m venv venv
--source venv/bin/activate   # Mac/Linux
-
-venv\Scripts\activate      # Windows
+- python -m venv venv
+- source venv/bin/activate   # Mac/Linux
+- venv\Scripts\activate      # Windows
 
 ---
 
