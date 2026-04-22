@@ -45,8 +45,8 @@ cd QAchatbotWithHistory
 ---
 
 ### 2. Create Virtual Environment
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
+-python -m venv venv
+-source venv/bin/activate   # Mac/Linux
 
 venv\Scripts\activate      # Windows
 
@@ -61,8 +61,8 @@ pip install -r requirements.txt
 
 Create a `.env` file:
 
-GROQ_API_KEY=your_groq_api_key
-HF_TOKEN=your_huggingface_token
+-GROQ_API_KEY=your_groq_api_key
+-HF_TOKEN=your_huggingface_token
 
 ---
 
@@ -74,11 +74,11 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
-app.py
-requirements.txt
-.env
-.gitignore
-README.md
+-app.py
+-requirements.txt
+-.env
+-.gitignore
+-README.md
 
 ---
 
