@@ -60,8 +60,8 @@ pip install -r requirements.txt
 
 Create a `.env` file:
 
--GROQ_API_KEY=your_groq_api_key
--HF_TOKEN=your_huggingface_token
+
+- HF_TOKEN=your_huggingface_token
 
 ---
 
