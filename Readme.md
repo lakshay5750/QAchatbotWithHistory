@@ -73,11 +73,14 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
--app.py
--requirements.txt
--.env
--.gitignore
--README.md
+```
+project/
+│── app.py
+│── requirements.txt
+│── .env
+│── .gitignore
+│── README.md
+```
 
 ---
 
