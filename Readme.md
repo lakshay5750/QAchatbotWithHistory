@@ -139,5 +139,7 @@ Lakshya Varshney
 ## ⭐ If you like this project
 Give it a star ⭐ and share it 🚀
 
+[Live App]([https://your-app-name.streamlit.app](https://appchatbotwithhistory-logapprbb4ceddpaecjks6g.streamlit.app/)
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1ca542d7-4005-4872-acbd-9c08545d29a6" />
 
